@@ -1,0 +1,19 @@
+@import "./bulma-generated/generated-fallback.css";
+@import "./bulma-generated/generated-bulma-vars.sass";
+@import "../node_modules/bulma-css-vars/bulma-cv-lib";
+/* regular */
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../assets/fonts/PlusJakartaSans-Regular.ttf);
+}
+/* semi-bold */
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../assets/fonts/PlusJakartaSans-Regular.ttf);
+}
